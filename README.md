@@ -1,4 +1,4 @@
-<p>Sobre mim <br>
+<h1>Sobre mim</h1>
 Meu nome e Rennan, tenho 20 anos <br>
 Faço o curso de Analise e Desenvolvimento de Sistemas na FATEC em cruzeiro<br>
 
