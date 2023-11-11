@@ -19,7 +19,6 @@ Estou no 5/6 semestre
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/></p>
 
- <h1>GitStats</h1>
- [! Azure](https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact)](https://github.com/RennanXD/github-readme-stats)<br>
  
