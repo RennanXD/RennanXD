@@ -1,9 +1,9 @@
-![tumblr_mt5xdbV1uO1s2axdno1_500](https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b)
-
+<h1>Olá Tudo Bem</h1>
+<img src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b">
 
 <h1>Sobre mim</h1>
 Meu nome e Rennan, tenho 21 anos <br>
-Faço o curso de Analise e Desenvolvimento de Sistemas na FATEC em cruzeiro<br>
+Faço o curso de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
 Estou no 5/6 semestre
 
 <h2>Linguagens aprendidas:</h2>
@@ -19,6 +19,7 @@ Estou no 5/6 semestre
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/></p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=radical)<br>
+ <h1>GitStats</h1>
+ <img src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=radical"><br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact)](https://github.com/RennanXD/github-readme-stats)<br>
  
