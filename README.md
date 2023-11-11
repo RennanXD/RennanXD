@@ -6,6 +6,7 @@ Meu nome e Rennan, tenho 21 anos <br>
 Faço o curso de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
 Estou no 5/6 semestre
 
+<hr>
 <h2>Linguagens aprendidas:</h2>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
