@@ -1,5 +1,5 @@
 <h1>Olá Tudo Bem</h1>
-<img src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b" height="170">
+<img height="170px" aling="center" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b">
 
 <h1>Sobre mim</h1>
 Meu nome e Rennan, tenho 21 anos <br>
