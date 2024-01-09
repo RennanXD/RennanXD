@@ -2,9 +2,9 @@
 <p align="center"><img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b"></p>
 
 <h1 align="center">Sobre mim</h1>
-<p align="center">Meu nome e Rennan, tenho 21 anos <br>
+<p align="center">Meu nome e Rennan Cruz, tenho 21 anos<br>
 Estou cursando a faculdade de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
-estou no 5º Semestre</p>
+Estou no 5º Semestre</p>
 
 <hr>
 <h2>Linguagens aprendidas:</h2>
