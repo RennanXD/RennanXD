@@ -1,10 +1,10 @@
 <h1>Olá Tudo Bem</h1>
-<img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b">
+<p align="center"><img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b"></p>
 
-<h1>Sobre mim</h1>
-Meu nome e Rennan, tenho 21 anos <br>
-Faço o curso de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
-Estou no 5/6 semestre
+<h1 align="center">Sobre mim</h1>
+<p align="center">Meu nome e Rennan, tenho 21 anos <br>
+Estou cursando a faculdade de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
+estou no 5º Semestre</p>
 
 <hr>
 <h2>Linguagens aprendidas:</h2>
@@ -14,12 +14,15 @@ Estou no 5/6 semestre
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/></p>
  <hr>
  
- <h2>Linguagens que eu ainda estou estudando:</h2>
+ <h2>Linguagens que eu estou aprendendo:</h2>
  <p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>
  </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula)<br>
+ <div align="center">
+ <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="Altar stats">
+  
+ </div>
  
