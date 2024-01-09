@@ -22,7 +22,8 @@ Estou no 5º Semestre</p>
  </p>
 
  <div align="center" id="status">
- <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="Altar stats">
+ <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats">
+ <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=dracula" alt="stats">
   
  </div>
  
