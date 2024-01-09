@@ -21,7 +21,7 @@ Estou no 5º Semestre</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>
  </p>
 
- <div align="center">
+ <div align="center" id="status">
  <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="Altar stats">
   
  </div>
