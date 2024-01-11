@@ -22,7 +22,7 @@ Estou no 5º Semestre</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="50" height="50"/>
  </p>
 
- <div align="center" id="status">
+ <div align="center" stlye="display:inline_block"><br>
  <img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats">
  <img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=dracula" alt="stats">
  </div>
