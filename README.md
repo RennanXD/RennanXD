@@ -1,4 +1,4 @@
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=#F58563&height=120&section=header"/>-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE6D73&height=120&section=header"/>
 <h1>Olá Tudo Bem</h1>
 <p align="center"><img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b"></p>
 
@@ -26,4 +26,4 @@ Estou no 5º Semestre</p>
  <img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats">
  <img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=dracula" alt="stats">
  </div>
- 
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE6D73&height=120&section=footer"/>
