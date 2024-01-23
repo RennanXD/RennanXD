@@ -25,7 +25,7 @@ Estou no 5º Semestre</p>-->
  </p>
 
  <div align="center">
- <p><img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats"></p>
- <img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=dracula" alt="stats">
+ <a><img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats"></a>
+ <a><img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=dracula" alt="stats"></a>
  </div>
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE6D73&height=120&section=footer"/>
