@@ -10,19 +10,21 @@ Estou no 5º Semestre</p>-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6D73&random=false&width=850&height=60&lines=Hello%2C+My+name+is+Rennan+Cruz+De+Souza.+I'm+21+years+old+;I'm+a+student%2C+Systems+Analysis+and+Development+at+Fatec+Cruzeiro-SP.;Be Welcome" alt="Typing SVG" /></a>
 
 <hr>
-<h2>Linguagens aprendidas:</h2>
+<h3>Linguagens aprendidas:</h3>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="50"/></p>
 <hr>
  
- <h2>Linguagens que eu estou em desenvolvimento:</h2>
+ <h3>Linguagens que eu estou em desenvolvimento:</h3>
  <p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="50"/>
  </p>
+ <br>
+
 
  <div align="center">
  <a><img width="70%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=dracula" alt="stats"></a>
