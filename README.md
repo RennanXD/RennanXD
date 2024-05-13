@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE6D73&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=482AEB&height=120&section=header"/>
 <!--<h1>Olá Tudo Bem</h1>-->
 <p align="center"><img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b"></p>
 
@@ -7,7 +7,7 @@
 Estou cursando a faculdade de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
 Estou no 5º Semestre</p>-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE6D73&random=false&width=850&height=60&lines=Hello%2C+My+name+is+Rennan+Cruz+De+Souza.+I'm+22+years+old+;I'm+a+student%2C+Systems+Analysis+and+Development+at+Fatec+Cruzeiro-SP.;Be Welcome" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=482AEB&random=false&width=850&height=60&lines=Hello%2C+My+name+is+Rennan+Cruz+De+Souza.+I'm+22+years+old+;I'm+a+student%2C+Systems+Analysis+and+Development+at+Fatec+Cruzeiro-SP.;Be Welcome" alt="Typing SVG" /></a>
 
 <hr>
 <h3>Linguagens estudadas:</h3>
@@ -25,7 +25,15 @@ Estou no 5º Semestre</p>-->
  </p>
  <hr>
 
- <div align="left">
- <a><img width="30%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=radical" alt="stats"></a>
+
+ <h3>Bibliotecas:</h3>
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="50"/>
+ </p>
+ 
+ <div align="center">
+ <a><img width="30%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennanXD&layout=compact&theme=midnight-purple" alt="stats"></a>
+ <a><img width="40%" height="185px" src="https://github-readme-stats.vercel.app/api?username=RennanXD&show_icons=true&theme=midnight-purple" alt="stats"></a> 
  </div>
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FE6D73&height=120&section=footer"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=482AEB&height=120&section=footer"/>
