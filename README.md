@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=482AEB&height=120&section=header"/>
 <!--<h1>Olá Tudo Bem</h1>-->
-<p align="center"><img height="220px" src="https://github.com/RennanXD/RennanXD/assets/91549549/495bd59f-de05-4e58-a6b9-0e3e77f6e60b"></p>
-
 <!--<h1 align="center">Sobre mim</h1>
 <p align="center">Meu nome e Rennan Cruz, tenho 21 anos<br>
 Estou cursando a faculdade de Analise e Desenvolvimento de Sistemas na FATEC em Cruzeiro<br>
