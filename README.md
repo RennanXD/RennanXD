@@ -9,7 +9,7 @@ Estou no 5º Semestre</p>-->
 <img width="40%" src="https://github.com/RennanXD/RennanXD/assets/91549549/168ac4d2-15aa-4c4b-b2cd-3188f56bd5b2"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=482AEB&random=false&width=850&height=60&lines=Hello%2C+My+name+is+Rennan+Cruz+De+Souza.+I'm+23+years+old+;I'm+a+student%2C+Systems+Analysis+and+Development+at+Fatec+Cruzeiro-SP.;Be Welcome :)" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=482AEB&random=false&width=850&height=60&lines=Hello%2C+My+name+is+Rennan+Cruz+De+Souza.+I'm+23+years+old+;I'm+a+student%2C+Systems+Analysis+and+Development+at+Fatec+Cruzeiro-SP.;Be Welcome :)" alt="Typing SVG" /></a>-->
 
 <hr>
 <h3>Linguagens estudadas:</h3>
